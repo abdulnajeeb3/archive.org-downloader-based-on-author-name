@@ -39,3 +39,6 @@ pip install -r requirements.txt
 After installing the requirements you can start executing the cells in the `Archive_book_downloader_by_author_name.ipynb`
 
 There is logging available in the cells of the notebook and the comments available on each cell should help you guide in getting the program to run successfull
+
+## Getting the metadata
+The script also allows you to get the metadata for the books downloaded, after successful download of the books you can execute the cells at the end of the notebook to get the required metadata for the books that you have downloaded
