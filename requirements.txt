@@ -1,3 +1,5 @@
 requests
 tqdm
+pandas
+internetarchive
 img2pdf
