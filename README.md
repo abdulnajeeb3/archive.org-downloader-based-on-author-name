@@ -13,6 +13,7 @@
     Creating new feature in feature 1 branch
 
     Creating third feature in feature 1 branch
+    This is something else
 
     <br />
     </p>
